@@ -52,8 +52,12 @@ And constructed with the following guidelines:
 
 ### Support
 
-* https://groups.google.com/a/ortussolutions.com/forum/#!forum/testbox
+* https://community.ortussolutions.com/c/communities/testbox/11
 * [Join BoxTeam Slack](https://boxteam.herokuapp.com)
+
+## Ortus Community
+
+Join us in our Ortus Community and become a valuable member of this project https://community.ortussolutions.com/c/communities/testbox/11. We are looking forward to hearing from you!
 
 ### Documentation
 
