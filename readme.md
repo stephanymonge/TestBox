@@ -52,7 +52,7 @@ And constructed with the following guidelines:
 
 ### Support
 
-* https://groups.google.com/a/ortussolutions.com/forum/#!forum/testbox
+* Join The Ortus Community https://community.ortussolutions.com/c/communities/testbox/11
 * [Join BoxTeam Slack](https://boxteam.herokuapp.com)
 
 ### Documentation
@@ -77,6 +77,11 @@ You can visit the TestBox documentation page to view all of its features and
 capabilities.  To install TestBox just drop it in your web root as `/testbox` or
 create a mapping in your CFML administrator or `Application.cfc` that points to the
 directory you installed TestBox and create the mapping `/testbox` that points to it.
+
+## Ortus Community
+
+Join us in our Ortus Community and become a valuable member of this project https://community.ortussolutions.com/c/communities/testbox/11. We are looking forward to hearing from you!!
+
 
 You can also use [CommandBox](https://www.ortussolutions.com/products/commandbox) to install and leverage TestBox for commandline executions, test generations, watchers and much more:
 
