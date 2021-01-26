@@ -80,7 +80,7 @@ directory you installed TestBox and create the mapping `/testbox` that points to
 
 ## Ortus Community
 
-Join us in our Ortus Community and become a valuable member of this project https://community.ortussolutions.com/c/communities/testbox/11. We will looking forward to hearing from you!!
+Join us in our Ortus Community and become a valuable member of this project https://community.ortussolutions.com/c/communities/testbox/11. We are looking forward to hearing from you!!
 
 
 You can also use [CommandBox](https://www.ortussolutions.com/products/commandbox) to install and leverage TestBox for commandline executions, test generations, watchers and much more:
